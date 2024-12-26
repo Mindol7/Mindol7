@@ -3,8 +3,6 @@
 <a href="cgumgek8@dankook.ac.kr"> <img src="https://img.shields.io/badge/cgumgek8@dankook.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <a href="https://mindol7.github.io/Mid-Term-Project//"><img src="https://img.shields.io/badge/-HomePage-brightgreen">
 
-Infor
-
 ## 📚 EDUCATION
 
 ***Dankook University, South Korea (MAR 2020 ~ )***
