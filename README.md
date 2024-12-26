@@ -2,7 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMindol7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="cgumgek8@dankook.ac.kr"> <img src="https://img.shields.io/badge/cgumgek8@dankook.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <a href="https://mindol7.github.io/Mid-Term-Project//"><img src="https://img.shields.io/badge/-HomePage-brightgreen">
-    
+
+Infor
 
 ## 📚 EDUCATION
 
@@ -13,7 +14,7 @@
   
 ***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ )***
 
-- Advisor Professor: Sung-Jae-Cho
+- Advisor Professor: Seong-Je-Cho
 - Research: Digital-Forensic (Vehicle-AVN, Android)
 
 ## 😆 Paper
@@ -38,9 +39,9 @@
 
 ## 💻 SKILLS
   
-📕 Programming Languages
+📕 Programming Languages : Assembly Script, C, C++, Python, Java
 
-<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff"/>
+🧰 Tools : Autopsy, Wireshark, Kali-Linux, PinTool, ElfTool, Ollydbg, GDB
 
 🌱 Certificate : 정보처리기능사, 리눅스마스터 2급
 
