@@ -39,7 +39,7 @@
   
 📕 Programming Languages : Assembly Script, C, C++, Python, Java
 
-🧰 Tools : Autopsy, Wireshark, Kali-Linux, PinTool, ElfTool, Ollydbg, GDB
+🧰 Tools : Autopsy, FTK Imager, Wireshark, Kali-Linux, PinTool, ElfTool, Ollydbg, GDB, etc.
 
 🌱 Certificate : 정보처리기능사, 리눅스마스터 2급
 
