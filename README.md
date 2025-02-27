@@ -15,7 +15,7 @@
 - Advisor Professor: Seong-Je-Cho
 - Research: Digital-Forensic (Vehicle-AVN, Android)
 
-***White Hat School 3rd, [WHS](http://securesw.dankook.ac.kr/index.html](https://whitehatschool.kr/home/kor/main.do)) (MAR 2025 ~ )***
+***White Hat School 3rd, [WHS](https://whitehatschool.kr/)) (MAR 2025 ~ )***
 
 - Organized by: Korea Information Technology Research Institute, [KITRI](http://www.kitri.re.kr/kitri/main/main.web)
 
