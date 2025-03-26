@@ -1,5 +1,4 @@
 ## MinHyuk's Github
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMindol7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="cgumgek8@dankook.ac.kr"> <img src="https://img.shields.io/badge/cgumgek8@dankook.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <a href="https://mindol7.github.io/Mid-Term-Project//"><img src="https://img.shields.io/badge/-HomePage-brightgreen">
 
