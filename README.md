@@ -8,7 +8,6 @@
 
 - Major: Mobile Systems Engineering
 - GPA: 4.21/4.5
-- Scholarship: 2024, 2025
   
 ***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ )***
 
