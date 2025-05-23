@@ -37,6 +37,7 @@
 
 - 네트워크 동기화 환경 기반 시간 조작 탐지 장치 및 방법
   - Application number: [10-2024-0156364](https://github.com/Mindol7/CSOS-Lab/tree/main/Patent/1)
+    
 - 모바일 장치에서 발생한 이벤트 데이터를 수집하고 저장하는 장치 및 방법 
   - Application number: [10-2025-0067605](https://github.com/Mindol7/CSOS-Lab/tree/main/Patent/2)
 ## 💻 SKILLS
