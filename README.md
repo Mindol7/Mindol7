@@ -1,6 +1,6 @@
 ## MinHyuk's Github
 <a href="cgumgek8@dankook.ac.kr"> <img src="https://img.shields.io/badge/cgumgek8@dankook.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
-<a href="https://mindol7.github.io/Mid-Term-Project//"><img src="https://img.shields.io/badge/-HomePage-brightgreen">
+<a href="https://github.com/Mindol7/Mindol7/blob/main/Minhyuk_CV.pdf">
 
 ## 📚 EDUCATION
 
@@ -42,6 +42,34 @@
     
 - 모바일 장치에서 발생한 이벤트 데이터를 수집하고 저장하는 장치 및 방법 
   - Application number: [10-2025-0067605](https://github.com/Mindol7/CSOS-Lab/tree/main/Patent/2)
+ 
+## 😋 PROJECTS
+***Timestamp Manipulation Detection Process Development	(Mar. 2024‑ Nov. 2025)***
+•	Designed a detection pipeline to identify manipulated timestamps via log analysis
+•	Implemented detection mechanisms for Linux systems and Android smartphone & Car connected over Bluetooth
+•	Outcome: 1 domestic conference paper, 1 international conference paper, 1 domestic KCI-indexed journal paper, 1 patent application filed
+
+***Android Forensic Log Collection and Timeline Reconstruction Tool	(Nov. 2024 ‑ PRESENT)***
+•	Developed a forensic tool to address the limitations of adb logcat and bugreport in Android systems
+•	Collected logs from a forensic perspective and reconstructed timelines in report format
+•	Currently preparing an SCI-indexed research paper for submission to Forensic Science International or Computers & Security
+•	Outcome: 1 patent application filed
+
+***FISHER: Fraudulent Incoming Speech Handling and Event Recoder(Dec. 2024 ‑ May. 2025)***
+•	Participated in Deep Learning and Security Module Development.
+•	Developed a Deep Voice Detection Model to Identify Voice Phishing Attempts
+
+***Designed and implemented a log-based intrusion detection system (IDS) in AWS cloud environment	(Mar. 2025 ‑ PRESENT)***
+•	Designed and implemented intrusion detection systems across basic, intermediate, and advanced attack scenarios
+•	Developed initial prototypes using the AWS console, later transitioned to infrastructure-as-code with Terraform
+•	Documented all implemented scenarios in a structured security operations workbook
+
+***Security Vulnerability Analysis of JIT Compiler (Mar. 2025 ‑ Jun. 2025)***
+•	Analyzed vulnerabilities in the Copy-and-Patch JIT Compiler used in CPython
+•	Targeted ARM-based architectures for exploit development
+•	Successfully executed shellcode via syscall and memory overwrite to gain shell access
+•	Outcome: 1 domestic conference paper published
+
 ## 💻 SKILLS
   
 📕 Programming Languages : Assembly Script, C, C++, Python, Java, etc.
