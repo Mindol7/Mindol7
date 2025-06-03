@@ -47,33 +47,44 @@
 ***1. Timestamp Manipulation Detection Process Development	(Mar. 2024‑ Nov. 2025)***
 
 •	Designed a detection pipeline to identify manipulated timestamps via log analysis
+
 •	Implemented detection mechanisms for Linux systems and Android smartphone & Car connected over Bluetooth
-•	Outcome: 1 domestic conference paper, 1 international conference paper, 1 domestic KCI-indexed journal paper, 1 patent application filed
+
+**•	Outcome: 1 domestic conference paper, 1 international conference paper, 1 domestic KCI-indexed journal paper, 1 patent application filed**
 
 ***2. Android Forensic Log Collection and Timeline Reconstruction Tool	(Nov. 2024 ‑ PRESENT)***
 
 •	Developed a forensic tool to address the limitations of adb logcat and bugreport in Android systems
+
 •	Collected logs from a forensic perspective and reconstructed timelines in report format
+
 •	Currently preparing an SCI-indexed research paper for submission to Forensic Science International or Computers & Security
-•	Outcome: 1 patent application filed
+
+**•	Outcome: 1 patent application filed**
 
 ***3. FISHER: Fraudulent Incoming Speech Handling and Event Recoder(Dec. 2024 ‑ May. 2025)***
 
 •	Participated in Deep Learning and Security Module Development.
+
 •	Developed a Deep Voice Detection Model to Identify Voice Phishing Attempts
 
 ***4. Designed and implemented a log-based intrusion detection system (IDS) in AWS cloud environment	(Mar. 2025 ‑ PRESENT)***
 
 •	Designed and implemented intrusion detection systems across basic, intermediate, and advanced attack scenarios
+
 •	Developed initial prototypes using the AWS console, later transitioned to infrastructure-as-code with Terraform
+
 •	Documented all implemented scenarios in a structured security operations workbook
 
 ***5. Security Vulnerability Analysis of JIT Compiler (Mar. 2025 ‑ Jun. 2025)***
 
 •	Analyzed vulnerabilities in the Copy-and-Patch JIT Compiler used in CPython
+
 •	Targeted ARM-based architectures for exploit development
+
 •	Successfully executed shellcode via syscall and memory overwrite to gain shell access
-•	Outcome: 1 domestic conference paper published
+
+**•	Outcome: 1 domestic conference paper published**
 
 ## 💻 SKILLS
   
