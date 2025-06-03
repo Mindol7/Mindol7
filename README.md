@@ -18,7 +18,7 @@
 
 - Organized by: Korea Information Technology Research Institute, [KITRI](http://www.kitri.re.kr/kitri/main/main.web)
 
-## 😆 PAPER
+## 😆 PUBLICATIONS
 
 -**International**-
 
@@ -35,7 +35,7 @@
 
 - CPython Copy-and-Patch JIT Compiler 메커니즘의 보안 취약점 분석, [KCC 2025](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/Domestic/Conference/KCC2025/CPython%20Copy-and-Patch%20JIT%20Compiler%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EC%9D%98%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B6%84%EC%84%9D.pdf)
 
-## 😝 PATENT
+## 😝 PATENTS
 
 - 네트워크 동기화 환경 기반 시간 조작 탐지 장치 및 방법
   - Application number: [10-2024-0156364](https://github.com/Mindol7/CSOS-Lab/tree/main/Patent/1)
@@ -50,9 +50,8 @@
 
   •	Implemented detection mechanisms for Linux systems and Android smartphone & Car connected over Bluetooth
 
-  **•	Outcome: 1 domestic conference paper, 1 international conference paper, 1 domestic KCI-indexed journal paper, 1 patent application filed**   
-
-
+  **•	Outcome: 1 domestic conference paper, 1 international conference paper, 1 domestic KCI-indexed journal paper, 1 patent application filed**<br>
+<br><br>
 ***2. Android Forensic Log Collection and Timeline Reconstruction Tool	(Nov. 2024 ‑ PRESENT)***
 
 •	Developed a forensic tool to address the limitations of adb logcat and bugreport in Android systems
@@ -61,14 +60,16 @@
 
 •	Currently preparing an SCI-indexed research paper for submission to Forensic Science International or Computers & Security
 
-**•	Outcome: 1 patent application filed**   
+**•	Outcome: 1 patent application filed**<br>
+<br><br>   
 
 
 ***3. FISHER: Fraudulent Incoming Speech Handling and Event Recoder(Dec. 2024 ‑ May. 2025)***
 
 •	Participated in Deep Learning and Security Module Development.
 
-•	Developed a Deep Voice Detection Model to Identify Voice Phishing Attempts   
+•	Developed a Deep Voice Detection Model to Identify Voice Phishing Attempts<br>
+<br><br>   
 
 
 ***4. Designed and implemented a log-based intrusion detection system (IDS) in AWS cloud environment	(Mar. 2025 ‑ PRESENT)***
@@ -77,7 +78,8 @@
 
 •	Developed initial prototypes using the AWS console, later transitioned to infrastructure-as-code with Terraform
 
-•	Documented all implemented scenarios in a structured security operations workbook   
+•	Documented all implemented scenarios in a structured security operations workbook<br>
+<br><br>   
 
 
 
@@ -89,7 +91,8 @@
 
 •	Successfully executed shellcode via syscall and memory overwrite to gain shell access
 
-**•	Outcome: 1 domestic conference paper published**
+**•	Outcome: 1 domestic conference paper published**<br>
+<br><br>
 
 ## 💻 SKILLS
   
