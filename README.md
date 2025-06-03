@@ -46,11 +46,12 @@
 ## 😋 PROJECTS
 ***1. Timestamp Manipulation Detection Process Development	(Mar. 2024‑ Nov. 2025)***
 
-•	Designed a detection pipeline to identify manipulated timestamps via log analysis
+  •	Designed a detection pipeline to identify manipulated timestamps via log analysis
 
-•	Implemented detection mechanisms for Linux systems and Android smartphone & Car connected over Bluetooth
+  •	Implemented detection mechanisms for Linux systems and Android smartphone & Car connected over Bluetooth
 
-**•	Outcome: 1 domestic conference paper, 1 international conference paper, 1 domestic KCI-indexed journal paper, 1 patent application filed**
+  **•	Outcome: 1 domestic conference paper, 1 international conference paper, 1 domestic KCI-indexed journal paper, 1 patent application filed**   
+
 
 ***2. Android Forensic Log Collection and Timeline Reconstruction Tool	(Nov. 2024 ‑ PRESENT)***
 
@@ -60,13 +61,15 @@
 
 •	Currently preparing an SCI-indexed research paper for submission to Forensic Science International or Computers & Security
 
-**•	Outcome: 1 patent application filed**
+**•	Outcome: 1 patent application filed**   
+
 
 ***3. FISHER: Fraudulent Incoming Speech Handling and Event Recoder(Dec. 2024 ‑ May. 2025)***
 
 •	Participated in Deep Learning and Security Module Development.
 
-•	Developed a Deep Voice Detection Model to Identify Voice Phishing Attempts
+•	Developed a Deep Voice Detection Model to Identify Voice Phishing Attempts   
+
 
 ***4. Designed and implemented a log-based intrusion detection system (IDS) in AWS cloud environment	(Mar. 2025 ‑ PRESENT)***
 
@@ -74,7 +77,9 @@
 
 •	Developed initial prototypes using the AWS console, later transitioned to infrastructure-as-code with Terraform
 
-•	Documented all implemented scenarios in a structured security operations workbook
+•	Documented all implemented scenarios in a structured security operations workbook   
+
+
 
 ***5. Security Vulnerability Analysis of JIT Compiler (Mar. 2025 ‑ Jun. 2025)***
 
