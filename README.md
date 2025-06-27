@@ -9,7 +9,7 @@
 - Major: Mobile Systems Engineering
 - GPA: 4.22/4.5 ***(Major GPA: 4.23/4.5)***
   
-***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ )***
+***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ JUN 2025)***
 
 - Advisor Professor: Seong-Je-Cho
 - Research: Digital-Forensic (Vehicle-AVN, Android)
