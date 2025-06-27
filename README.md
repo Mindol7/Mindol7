@@ -7,7 +7,7 @@
 ***Dankook University, South Korea (MAR 2020 ~ )***
 
 - Major: Mobile Systems Engineering
-- GPA: 4.21/4.5
+- GPA: 4.22/4.5 ***(Major GPA: 4.23/4.5)***
   
 ***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ )***
 
