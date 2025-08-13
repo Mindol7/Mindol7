@@ -94,6 +94,19 @@
 **•	Outcome: 1 domestic conference paper published**<br>
 <br><br>
 
+***6. KITTY: Keep It Talk-safe To Youth (May. 2025 - Aug. 2025)***
+
+• Selection of Dankook University's Representative Team 
+
+• Advancement to the Finals in the Digital Competition for Software-Centered Universities 
+
+• Developed a digital safety solution for children and adolescents to detect and prevent harmful online communication  
+
+• Selected as a representative team at DKU and advanced to the finals of a national software innovation competition  
+
+**• Outcome: 1 mobile application service, 1 Corporate Sponsorship Award<br>**
+<br><br>
+
 ## 💻 SKILLS
   
 📕 Programming Languages : Assembly Script, C, C++, Python, Java, etc.
