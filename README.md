@@ -1,7 +1,8 @@
 ## MinHyuk's Github
 <a href="cgumgek8@dankook.ac.kr"> <img src="https://img.shields.io/badge/cgumgek8@dankook.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <a href="https://github.com/Mindol7/Mindol7/blob/main/Minhyuk_CV.pdf"><img src="https://img.shields.io/badge/CV-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=blue"/></a>
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/minhyuk-cho-b4196a326/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-프로필-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhyuk-cho-b4196a326/)
+
 
 ## 📚 EDUCATION
 
