@@ -5,7 +5,7 @@
 
 
 ## 📚 EDUCATION
-***Korea University, Seou (MAR 2026 ~ )***
+***Korea University, Seoul (MAR 2026 ~ )***
 - Major: M.S. In Information Security
 
 ***Dankook University, Yongin (MAR 2020 ~ FEB 2026)***
