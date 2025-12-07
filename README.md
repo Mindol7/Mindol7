@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mindol7)
 
 
-## 📚 EDUCATION & Research Experience
+## 📚 EDUCATION & RESEARCH EXPERIENCE 
 ***Korea University, Seoul (MAR 2026 ~ )***
 - Major: M.S. In Information Security 
 
@@ -17,7 +17,7 @@
 - Advisor Professor: Seong-Je-Cho 
 - Research: Digital-Forensic (Vehicle-AVN, Android) 
 
-## 😆 Paper 
+## 😆 PAPER 
 -**International**- 
 
  ***Conference*** 
