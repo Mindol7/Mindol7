@@ -4,21 +4,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mindol7)
 
 
-
-
-## 📚 EDUCATION
+## 📚 EDUCATION & Research Experience
 ***Korea University, Seoul (MAR 2026 ~ )***
-- Major: M.S. In Information Security
+- Major: M.S. In Information Security 
 
-***Dankook University, South Korea (MAR 2020 ~ )***
 ***Dankook University, Yongin (MAR 2020 ~ FEB 2026)***
 
-- Major: Mobile Systems Engineering
-- GPA: 4.22/4.5 ***(Major GPA: 4.23/4.5)***
-- Major: B.S. In Mobile Systems Engineering
+- Major: B.S. In Mobile Systems Engineering 
 - GPA: 4.22/4.5 ***(Major GPA: 4.21/4.5)***
 
-***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ JUN 2025)***
+***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ JUN 2025)*** 
+- Advisor Professor: Seong-Je-Cho 
+- Research: Digital-Forensic (Vehicle-AVN, Android) 
+
+## 😆 Paper 
+-**International**- 
+
+ ***Conference*** 
+- Effects of Timestamp Manipulation in a Car Audio Video Navigation System Connected to a Smartphone via Bluetooth: A Preliminary Study, [ICNGC2024](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/International/ICNGC2024/Effects%20of%20Timestamp%20Manipulation%20in%20a%20Car%20Audio%20Video%20Navigation%20System%20Connected%20to%20a%20Smartphone%20via%20Bluetooth%20-%20A%20Preliminary%20Study.pdf)
+
+-**Domestic**- 
 
 ***Journal*** 
 - 리눅스와 안드로이드 시스템에서 타임스탬프 조작 식별을 위한 로그 분석 기법, [KCI](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/Domestic/Journal/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%99%80%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%83%AC%ED%94%84.pdf)
@@ -106,6 +111,6 @@
 
 🧰 Tools : Autopsy, FTK Imager, Wireshark, Kali-Linux, PinTool, ElfTool, Ollydbg, GDB, etc.
 
-🌱 Certificate : 정보처리기능사, 리눅스마스터 2급, AWS Certified Cloud Practitioner(CLF-C02)
+🌱 Certificate : 디지털포렌식 전문가 2급, AWS Certified Cloud Practitioner(CLF-C02), 리눅스마스터 2급, 정보처리기능사
 
 📚 Interestings: System Security, Digital Forensic, Reverse Engineering, etc.
