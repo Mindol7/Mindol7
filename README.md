@@ -20,10 +20,10 @@
 
 ***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ JUN 2025)***
 
-@@ -33,89 +35,7 @@
+***Journal*** 
 - 리눅스와 안드로이드 시스템에서 타임스탬프 조작 식별을 위한 로그 분석 기법, [KCI](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/Domestic/Journal/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%99%80%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%83%AC%ED%94%84.pdf)
 
-***Conference***
+***Conference*** 
 - 블루투스로 연결된 스마트폰과 자동차 인포테인먼트 시스템에서의 시간 조작 탐지, [WDSC 2024](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/Domestic/Conference/WDSC2024/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4%EB%A1%9C%20%EC%97%B0%EA%B2%B0%EB%90%9C%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EA%B3%BC%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9D%B8%ED%8F%AC%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C%EC%9D%98%20%EC%8B%9C%EA%B0%84%20%EC%A1%B0%EC%9E%91%20%ED%83%90%EC%A7%80.pdf)
 
 - CPython Copy-and-Patch JIT Compiler 메커니즘의 보안 취약점 분석, [KCC 2025](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/Domestic/Conference/KCC2025/CPython%20Copy-and-Patch%20JIT%20Compiler%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EC%9D%98%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B6%84%EC%84%9D.pdf) **(우수논문상)**
@@ -107,6 +107,5 @@
 🧰 Tools : Autopsy, FTK Imager, Wireshark, Kali-Linux, PinTool, ElfTool, Ollydbg, GDB, etc.
 
 🌱 Certificate : 정보처리기능사, 리눅스마스터 2급, AWS Certified Cloud Practitioner(CLF-C02)
-- 블루투스로 연결된 스마트폰과 자동차 인포테인먼트 시스템에서의 시간 조작 탐지, [WDSC 2024](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/Domestic/Conference/WDSC2024/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4%EB%A1%9C%20%EC%97%B0%EA%B2%B0%EB%90%9C%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EA%B3%BC%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9D%B8%ED%8F%AC%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C%EC%9D%98%20%EC%8B%9C%E급
 
 📚 Interestings: System Security, Digital Forensic, Reverse Engineering, etc.
