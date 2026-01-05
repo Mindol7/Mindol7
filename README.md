@@ -11,7 +11,7 @@
 ***Dankook University, Yongin (MAR 2020 ~ FEB 2026)***
 
 - Major: B.S. In Mobile Systems Engineering 
-- GPA: 4.22/4.5 ***(Major GPA: 4.21/4.5)***
+- GPA: 4.25/4.5 ***(Major GPA: 4.25/4.5)***
 
 ***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ JUN 2025)*** 
 - Advisor Professor: Seong-Je-Cho 
