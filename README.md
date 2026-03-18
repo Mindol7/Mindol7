@@ -1,23 +1,27 @@
 ## MinHyuk's Github
-<a href="cgumgek8@dankook.ac.kr"> <img src="https://img.shields.io/badge/cgumgek8@dankook.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+<a href="cgumgek8@dankook.ac.kr"> <img src="https://img.shields.io/badge/cgumgek8@korea.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <a href="https://github.com/Mindol7/Mindol7/blob/main/Minhyuk_CV.pdf"><img src="https://img.shields.io/badge/CV-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=blue"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mindol7)
 
 
 ## 📚 EDUCATION & RESEARCH EXPERIENCE 
 ***Korea University, Seoul (MAR 2026 ~ )***
-- Major: M.S. In Information Security 
+- Major: M.S. In Information Security
+- M.S. Research Student, _**[DFRC Lab](https://dfrc.korea.ac.kr/) (MAR 2026 ~ )**__
+- Advisor Professor: [Jungheum Park](https://dfrc.korea.ac.kr/aboutus_professor)
+- Research: Digital Forensics, Incident Response, etc.
 
 ***Dankook University, Yongin (MAR 2020 ~ FEB 2026)***
 
 - Major: B.S. In Mobile Systems Engineering 
 - GPA: 4.25/4.5 ***(Major GPA: 4.25/4.5)***
+- Graduated First Class Honor
 
 ***Undergraduate Research Student, [CSOS Lab](http://securesw.dankook.ac.kr/index.html) (MAR 2024 ~ JUN 2025)*** 
-- Advisor Professor: Seong-Je-Cho 
-- Research: Digital-Forensic (Vehicle-AVN, Android) 
+- Advisor Professor: [Seong-Je-Cho](https://securesw.dankook.ac.kr/Members/Professor.html)
+- Research: Digital Forensic (Vehicle-AVN, Android) 
 
-## 😆 PAPER 
+## 😆 Publications 
 -**International**- 
 
  ***Conference*** 
@@ -33,15 +37,32 @@
 
 - CPython Copy-and-Patch JIT Compiler 메커니즘의 보안 취약점 분석, [KCC 2025](https://github.com/Mindol7/CSOS-Lab/blob/main/Paper/Domestic/Conference/KCC2025/CPython%20Copy-and-Patch%20JIT%20Compiler%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EC%9D%98%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B6%84%EC%84%9D.pdf) **(우수논문상)**
 
-## 😝 PATENTS
+## 😝 Patents
 
 - 네트워크 동기화 환경 기반 시간 조작 탐지 장치 및 방법
   - Application number: [10-2024-0156364](https://github.com/Mindol7/CSOS-Lab/tree/main/Patent/1)
     
 - 모바일 장치에서 발생한 이벤트 데이터를 수집하고 저장하는 장치 및 방법 
   - Application number: [10-2025-0067605](https://github.com/Mindol7/CSOS-Lab/tree/main/Patent/2)
+
+## 🏆️ Awards & Scholars 
+### **Awards** 
+
+1. Academic Excellence Award, Awarded by Dankook University, Yongin (Graduation Ceremony 2026).
+2. Alumni Association Award, Awarded by Dankook University, Yongin (Graduation Ceremony 2026).
+3. Grand Prize Award, Awarded by Megastudy, Seoul (AI Prompt Engineering Contest 2025).
+4. Corporate Sponsorship Award, Awarded by SPARTA, Seoul (Digital Competition 2025).
+5. Excellent Paper Award, Awarded by KIISE, Jeju (KCC 2025). 
+
+### **Scholars**
+1. Academic Excellence Scholarship, Awarded by Dankook University, Yongin (2025, FALL).
+2. Academic Excellence Scholarship, Awarded by Dankook University, Yongin (2025, SPRING).
+3. Academic Excellence Scholarship, Awarded by Dankook University, Yongin (2024, FALL).
+4. Mugunghwa Scholarship, Awarded by Gyeonggi Nambu Provincial Police (2024, SPRING).
+5. SW Talent Scholarship, Awarded by Dankook University, Yongin (2020, SPRING). 
  
-## 😋 PROJECTS
+ <!--
+_## 😋 PROJECTS
 ***1. Timestamp Manipulation Detection Process Development	(Mar. 2024‑ Nov. 2025)***
 
   •	Designed a detection pipeline to identify manipulated timestamps via log analysis
@@ -114,3 +135,4 @@
 🌱 Certificate : 디지털포렌식 전문가 2급, AWS Certified Cloud Practitioner(CLF-C02), 리눅스마스터 2급, 정보처리기능사
 
 📚 Interestings: System Security, Digital Forensic, Reverse Engineering, etc.
+-->
